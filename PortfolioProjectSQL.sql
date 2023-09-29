@@ -65,5 +65,3 @@ order by 1,2;
 select "Country name", [year], "Population growth rate",
 round("Population growth rate" - lag("Population growth rate", 1) over (partition by "Country name" order by [year]),2) as PopGrowthRateDiff
 from PortfolioProject..PopulationGrowthRate$;
-
---Convert and Cast with Order by to add from top-down
