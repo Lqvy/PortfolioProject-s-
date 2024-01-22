@@ -1,3 +1,5 @@
+--Information found and searched through is from ourworldindata.org
+
 --Life Expectancy in United States (average number of years a newborn would live to if mortality rates maintain)
 --e.g. if born in 2021 life expectancy is 77.2, but if you are 80 as of 2021 you'll live till 89.5
 Select *
