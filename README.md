@@ -1,1 +1,1 @@
-Will slowly be adding more projects with time, my SQL server recently corrupted with a bunch of code so I need to redo some work. - 4/26/2024
+The Data Cleaning project is directly tied to the before and after layoffs CSV's. - 7/12/24
